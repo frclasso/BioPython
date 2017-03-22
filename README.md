@@ -1,17 +1,17 @@
 BioPython
 
-- exemplos relacionaos a documentacao publicada em http://biopython.org/.
+- exemplos relacionaos a documentacao publicada em http://biopython.org/
 
-	-Formatos a serem utilizados com BioPython:
-    		Bast output,
-    		Clustalw
-    		FASTA
-    		Genbank
-    		PubMed e Medline
-    		EsPASy files(Enzyme e Prosite)
-    		SCOP(arquivos dom e lim)
-    		UniGene
-    	SwissProt
+-Formatos a serem utilizados com BioPython:
+    	Bast output,
+    	Clustalw,
+    	FASTA,
+    	Genbank,
+    	PubMed e Medline,
+    	EsPASy files(Enzyme e Prosite),
+    	SCOP(arquivos dom e lim),
+    	UniGene,
+    	SwissProt.
 
 -Instalacao:
     
