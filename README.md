@@ -3,7 +3,7 @@ BioPython
 - exemplos relacionaos a documentacao publicada em http://biopython.org/
 
 -Formatos a serem utilizados com BioPython:
-    	Bast output,
+    	Blast output,
     	Clustalw,
     	FASTA,
     	Genbank,
